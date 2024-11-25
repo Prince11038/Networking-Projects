@@ -56,7 +56,8 @@ pip install scapy
 ## Output
 
 ### Example Output
-1. **Interface Selection:**
+
+**Interface Selection:**
    ```text
    Available Interfaces:
 1. \Device\NPF_{5445E37F-7B46-48D7-8631-252D12047964}
