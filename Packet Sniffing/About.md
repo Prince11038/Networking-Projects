@@ -59,10 +59,14 @@ pip install scapy
 1. **Interface Selection:**
    ```text
    Available Interfaces:
-   1. Wi-Fi
-   2. Ethernet
-   3. Local Loopback
-   Enter the interface index for sniffing: 1
+1. \Device\NPF_{5445E37F-7B46-48D7-8631-252D12047964}
+2. \Device\NPF_{C7876ED4-E1B3-4E00-B75E-DE6093B5444B}
+3. \Device\NPF_{9549EB2A-1F59-42EB-94C0-4B1918F3B3D1}
+4. \Device\NPF_{7FEDAAD1-D633-4B6B-89AE-20A541968C9B}
+5. \Device\NPF_{74D0484C-5B5C-46EC-963E-ED500E5B217C}
+6. \Device\NPF_{676BEF76-9F1B-4630-890D-F53DB8262522}
+7. \Device\NPF_Loopback
+Enter the interface index for sniffing: 4
    ```
 
 2. **Protocol Filtering:**
